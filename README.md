@@ -39,7 +39,7 @@ Long-term mission:
 
 → Data Science  
 → Machine Learning  
-→ AI
+→ AI ;)
 
 ---
 
@@ -107,8 +107,7 @@ Long-term mission:
 
 <br><br>
 
-**still learning. building.shipping. 🚀**
-git commit -m "still figuring it out"
+**still learning. still building.still shipping. 🚀**
 
 </div>
 
