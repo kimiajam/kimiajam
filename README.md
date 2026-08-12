@@ -93,15 +93,6 @@ Long-term mission:
 
 ---
 
-## 💻 `current_status`
-
-**CODE** `████████████████████` 100%  
-**LEARNING** `████████████████████` ∞%  
-**DEBUGGING** `████████████████████` 💀  
-**COFFEE** `████████████████████` ☕
-
----
-
 <div align="center">
 
 ### `build → break → debug → learn → repeat`
