@@ -88,18 +88,6 @@ Long-term mission:
 
 ---
 
-## 📊 `github_stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kimiajam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimiajam&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000">
-
-</div>
-
----
-
 ## 💻 `current_status`
 
 <div align="center">
@@ -107,7 +95,7 @@ Long-term mission:
 **CODE** `████████████████████` 100%  
 **LEARNING** `████████████████████` ∞%  
 **DEBUGGING** `████████████████████` 💀  
-**COFFEE** `████████████████████` ☕
+**COFFEE** `████████████████████` 1000%☕
 
 </div>
 
@@ -124,4 +112,4 @@ Long-term mission:
 **still learning. still building. still shipping. 🚀**
 
 </div>
-status: learning ████████████████░░░░
+git commit -m "still figuring it out"
