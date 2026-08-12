@@ -74,10 +74,6 @@ Long-term mission:
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ## 🚀 `currently_learning`
 
 🐍 Python  
@@ -86,36 +82,18 @@ Long-term mission:
 🧩 Data Structures & Algorithms  
 📊 Data Analysis  
 
-<br>
-
-**Next:**  
-`Data Science → Machine Learning → AI`
-
-<br>
+**Next:** `Data Science → Machine Learning → AI`
 
 > One skill at a time. No speedrun.
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ## 💻 `current_status`
 
-**CODE**  
-`████████████████████` 100%
-
-**LEARNING**  
-`████████████████████` ∞%
-
-**DEBUGGING**  
-`████████████████████` 💀
-
-**COFFEE**  
-`████████████████████` ☕
-
-</td>
-</tr>
-</table>
+**CODE** `████████████████████` 100%  
+**LEARNING** `████████████████████` ∞%  
+**DEBUGGING** `████████████████████` 💀  
+**COFFEE** `████████████████████` ☕
 
 ---
 
@@ -125,7 +103,7 @@ Long-term mission:
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=kimiajam&style=for-the-badge&color=8B5CF6" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=kimiajam&style=for-the-badge&color=8B5CF6">
 
 <br><br>
 
