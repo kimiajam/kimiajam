@@ -107,8 +107,8 @@ Long-term mission:
 
 <br><br>
 
-**still learning. still building. still shipping. 🚀**
+**still learning. building.shipping. 🚀**
+git commit -m "still figuring it out"
 
 </div>
 
-git commit -m "still figuring it out"
