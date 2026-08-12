@@ -74,6 +74,10 @@ Long-term mission:
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## 🚀 `currently_learning`
 
 🐍 Python  
@@ -82,22 +86,36 @@ Long-term mission:
 🧩 Data Structures & Algorithms  
 📊 Data Analysis  
 
-**Next:** Data Science → Machine Learning → AI
+<br>
+
+**Next:**  
+`Data Science → Machine Learning → AI`
+
+<br>
 
 > One skill at a time. No speedrun.
 
----
-<table>
-<tr>
+</td>
+
 <td width="50%" valign="top">
 
 ## 💻 `current_status`
 
-```text
-CODE       ████████████████████  100%
-LEARNING   ████████████████████  ∞%
-DEBUGGING  ████████████████████  💀
-COFFEE     ████████████████████  ☕
+**CODE**  
+`████████████████████` 100%
+
+**LEARNING**  
+`████████████████████` ∞%
+
+**DEBUGGING**  
+`████████████████████` 💀
+
+**COFFEE**  
+`████████████████████` ☕
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -105,11 +123,14 @@ COFFEE     ████████████████████  ☕
 
 ### `build → break → debug → learn → repeat`
 
-<img src="https://komarev.com/ghpvc/?username=kimiajam&style=for-the-badge&color=8B5CF6">
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=kimiajam&style=for-the-badge&color=8B5CF6" alt="Profile views">
 
 <br><br>
 
 **still learning. still building. still shipping. 🚀**
 
 </div>
+
 git commit -m "still figuring it out"
