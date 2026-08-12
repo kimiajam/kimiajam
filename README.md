@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/GitHub-kimiajam-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://github.com/kimiajam">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -24,21 +24,104 @@
 
 ## 🧠 `whoami`
 
-```text
 Python developer in progress.
 
-Currently building with Django and learning
-how things work under the hood.
+Currently building with Django and learning how things work under the hood.
 
 Focused on:
-→ Backend Development
-→ Databases
-→ Algorithms & Data Structures
-→ Data Analysis
+
+→ Backend Development  
+→ Databases  
+→ Algorithms & Data Structures  
+→ Data Analysis  
 
 Long-term mission:
-→ Data Science
-→ Machine Learning
+
+→ Data Science  
+→ Machine Learning  
 → AI
 
+---
+
+## ⚡ `tech_stack`
+
+<div align="center">
+
+### Languages
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+### Backend
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+
+### Data
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
+
+### Tools
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+
+</div>
+
+---
+
+## 🚀 `currently_learning`
+
+🐍 Python  
+🌐 Django & Backend Development  
+🗄️ Databases & SQL  
+🧩 Data Structures & Algorithms  
+📊 Data Analysis  
+
+**Next:** Data Science → Machine Learning → AI
+
+> One skill at a time. No speedrun.
+
+---
+
+## 📊 `github_stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kimiajam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimiajam&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000">
+
+</div>
+
+---
+
+## 💻 `current_status`
+
+<div align="center">
+
+**CODE** `████████████████████` 100%  
+**LEARNING** `████████████████████` ∞%  
+**DEBUGGING** `████████████████████` 💀  
+**COFFEE** `████████████████████` ☕
+
+</div>
+
+---
+
+<div align="center">
+
+### `build → break → debug → learn → repeat`
+
+<img src="https://komarev.com/ghpvc/?username=kimiajam&style=for-the-badge&color=8B5CF6">
+
+<br><br>
+
+**still learning. still building. still shipping. 🚀**
+
+</div>
 status: learning ████████████████░░░░
