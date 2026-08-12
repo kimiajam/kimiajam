@@ -87,17 +87,17 @@ Long-term mission:
 > One skill at a time. No speedrun.
 
 ---
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 💻 `current_status`
 
-<div align="center">
-
-**CODE** `████████████████████` 100%  
-**LEARNING** `████████████████████` ∞%  
-**DEBUGGING** `████████████████████` 💀  
-**COFFEE** `████████████████████` 1000%☕
-
-</div>
+```text
+CODE       ████████████████████  100%
+LEARNING   ████████████████████  ∞%
+DEBUGGING  ████████████████████  💀
+COFFEE     ████████████████████  ☕
 
 ---
 
