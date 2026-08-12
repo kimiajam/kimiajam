@@ -21,13 +21,16 @@
 </div>
 
 ---
+## 🧠 `what_drives_me`
 
-## 🧠 `whoami`
+I'm obsessed with learning how things work — from code and systems to data and the problems they can solve.
 
-Python developer in progress.
+For me as a junior , this isn't just about learning another framework or adding another skill to the stack.
 
-Currently building with Django and learning how things work under the hood.
+It's about **going deeper, building bigger, and seeing where this obsession can take me.**
 
+> **Learn relentlessly. Build fearlessly.  
+> Turn curiosity into something real.**
 Focused on:
 
 → Backend Development  
