@@ -77,21 +77,6 @@ Long-term mission:
 
 </div>
 
----
-
-## 🚀 `currently_learning`
-
-🐍 Python  
-🌐 Django & Backend Development  
-🗄️ Databases & SQL  
-🧩 Data Structures & Algorithms  
-📊 Data Analysis  
-
-**Next:** `Data Science → Machine Learning → AI`
-
-> One skill at a time. No speedrun.
-
----
 
 <div align="center">
 
@@ -101,9 +86,5 @@ Long-term mission:
 
 <img src="https://komarev.com/ghpvc/?username=kimiajam&style=for-the-badge&color=8B5CF6">
 
-<br><br>
-
-**still learning. still building.still shipping. 🚀**
-
-</div>
+<br>
 
