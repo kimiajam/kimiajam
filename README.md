@@ -31,7 +31,6 @@ It's about **going deeper, building bigger, and seeing where this obsession can 
 
 > **Learn relentlessly. Build fearlessly.  
 > Turn curiosity into something real.**
->
 
 Focused on:
 
